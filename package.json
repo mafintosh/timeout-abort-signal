@@ -1,6 +1,6 @@
 {
   "name": "timeout-abort-signal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Abort signal that can be wrapped to support timeout",
   "main": "index.js",
   "dependencies": {},
